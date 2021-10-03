@@ -45,7 +45,7 @@ fieldset {
 textarea {
   width: 327px;
   height: 114px;
-  background-color: #FBF8F7;
+  background-color: #fbf8f7;
   border: none;
   margin: 36px 0 0 0;
   padding: 10px;
@@ -54,7 +54,7 @@ textarea {
 .btn-center {
   width: 131px;
   height: 48px;
-  background-color: #FF6B00;
+  background-color: #ff6b00;
   color: white;
   margin: 24px 0 124px 0;
 }
