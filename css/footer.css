@@ -12,11 +12,53 @@ fieldset {
   flex-direction: column;
 }
 
+form input {
+  border: none;
+  padding: 10px;
+}
+
+form {
+  width: 327px;
+  align-items: center;
+}
+
+hr {
+  width: 327px;
+}
+
+fieldset {
+  border: none;
+}
+
 .footer-section {
   width: 327px;
   height: 216px;
+  margin: 120px 0 73px 0;
 }
 
 .footer-section h2 {
   text-align: center;
+  font-size: 32px;
+  line-height: 44px;
+}
+
+textarea {
+  width: 327px;
+  height: 114px;
+  background-color: #FBF8F7;
+  border: none;
+  margin: 36px 0 0 0;
+  padding: 10px;
+}
+
+.btn-center {
+  width: 131px;
+  height: 48px;
+  background-color: #FF6B00;
+  color: white;
+  margin: 24px 0 124px 0;
+}
+
+.icon-footer {
+  filter: invert(90%);
 }
