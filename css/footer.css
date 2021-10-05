@@ -59,6 +59,13 @@ textarea {
   margin: 24px 0 124px 0;
 }
 
+.btn-center:hover {
+  background-color: #fff5e1;
+
+  /* color: #f55800;
+  border: 1px solid #f55800; */
+}
+
 .icon-footer {
   filter: invert(90%);
 }
